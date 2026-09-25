@@ -15,8 +15,6 @@ A Machine-Learning prototype with **Explainable AI**, implementing the core pipe
 | **Department** | IT |
 | **Project Title** | AI Phishing Detection & Root Cause Analysis |
 
-*(Update this table with your actual course code / faculty name if different from your paper.)*
-
 ---
 
 ## Table of Contents
