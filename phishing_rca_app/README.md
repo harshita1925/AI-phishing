@@ -10,11 +10,9 @@ A Machine-Learning prototype with **Explainable AI**, implementing the core pipe
 
 | Field | Detail |
 |---|---|
-| **Name** | T.P. Hettiarachchi |
-| **Student ID** | CS/2020/042 |
-| **Department** | Computer Science, Faculty of Computing and Technology |
-| **University** | University of Kelaniya |
-| **Assignment** | AI CIA-01 Part 05 |
+| **Name** | Harshita Chavan |
+| **Student ID** | 5024113 |
+| **Department** | IT |
 | **Project Title** | AI Phishing Detection & Root Cause Analysis |
 
 *(Update this table with your actual course code / faculty name if different from your paper.)*
